@@ -11,7 +11,8 @@ github-project-example/
 ├── 📜 LICENSE                        # MIT License
 ├── 🚫 .gitignore                     # Git ignore rules
 │
-├── 📚 docs/                          # Documentation & References
+├── 📚 docs/                  # Documentation & References
+│   ├── git-basics.md                # Git & GitHub fundamentals (NEW!)
 │   ├── cheat-sheet.md               # Quick reference guide
 │   ├── faq.md                       # Frequently asked questions
 │   ├── glossary.md                  # Terms & definitions

@@ -9,12 +9,14 @@ Panduan cepat memulai dengan GitHub Project Management.
 **Langsung praktek tanpa perlu clone repository!**
 
 1. **Buat GitHub Project** (2 menit)
+
    - Buka repository/organization Anda
    - Tab **Projects** → **New project**
    - Pilih template atau start blank
    - Beri nama project
 
 2. **Explore Features** (3 menit)
+
    - Add test issues
    - Try drag & drop
    - Add custom field
@@ -34,6 +36,7 @@ cd github-project-example
 ```
 
 **Then:**
+
 - 📖 Read [README.md](README.md)
 - 📚 Check [docs/](docs/) for references
 - 🎓 Follow [exercises/](exercises/) tutorials
@@ -42,24 +45,28 @@ cd github-project-example
 ## ⏱️ Your First Hour with GitHub Projects
 
 ### Minutes 1-15: Project Creation
+
 - ✅ Create your first GitHub Project
 - ✅ Understand the interface
 - ✅ Add 3-5 test issues
 - ✅ Try different views (Board/Table)
 
 ### Minutes 16-30: Basic Features
+
 - ✅ Read [Exercise 1: Basic Setup](exercises/01-basic-setup.md)
 - ✅ Practice creating issues
 - ✅ Drag & drop between statuses
 - ✅ Assign issues
 
 ### Minutes 31-45: Customization
+
 - ✅ Skim [Exercise 2: Custom Fields](exercises/02-custom-fields.md)
 - ✅ Add Priority field
 - ✅ Try creating filters
 - ✅ Group items by field
 
 ### Minutes 46-60: Automation
+
 - ✅ Explore [Exercise 3: Automation](exercises/03-automation.md)
 - ✅ Enable one automation
 - ✅ Test the automation
@@ -94,19 +101,23 @@ github-project-example/
 ## 🎯 Choose Your Path
 
 ### 👤 Individual Developer
+
 **Goal:** Personal productivity & task tracking
 
 **Quick Start:**
+
 1. Buat personal project
 2. Follow [Exercise 1-2](exercises/)
 3. Use untuk daily tasks
 
 **Time:** 2-3 hours setup, use daily
 
-### 👥 Development Team  
+### 👥 Development Team
+
 **Goal:** Sprint planning & collaboration
 
 **Quick Start:**
+
 1. Choose methodology: [Scrum](templates/scrum-board.md) atau [Kanban](templates/kanban-board.md)
 2. Setup team project
 3. Configure automation
@@ -115,9 +126,11 @@ github-project-example/
 **Time:** 1 day setup, 1 week adjustment
 
 ### 🎯 Project Manager
+
 **Goal:** Planning, tracking, reporting
 
 **Quick Start:**
+
 1. Follow [Exercise 5: Roadmap](exercises/05-roadmap.md)
 2. Setup [Multiple Views](exercises/04-multiple-views.md)
 3. Configure metrics tracking
@@ -125,9 +138,11 @@ github-project-example/
 **Time:** 2-3 days mastery
 
 ### 🐛 Open Source Maintainer
+
 **Goal:** Community management & triage
 
 **Quick Start:**
+
 1. Use [Bug Tracking Template](templates/bug-tracking.md)
 2. Setup [Issue Templates](.github/ISSUE_TEMPLATE/)
 3. Configure contributor workflow
